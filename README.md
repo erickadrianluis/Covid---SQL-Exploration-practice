@@ -1,4 +1,4 @@
-# covid-epxloration
+# covid-exploration
 /*
 Covid 19 Data Exploration 
 
